@@ -1,6 +1,6 @@
 # SixInchRack
 
-This is a project for 6" cabinets and rack enclusures. 
+This is a project for 6" cabinets and rack enclosures. 
 
 For pictures have a look here:
  - http://www.thingiverse.com/thing:1957436
